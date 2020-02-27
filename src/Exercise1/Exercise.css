@@ -1,0 +1,12 @@
+
+.Exercise td {
+	width:50px;
+	height:50px;
+	background : grey;
+	padding:10px;
+	border : 2px solid #FFF;
+}
+
+.Exercise td.active {
+	background : yellow;	
+}
